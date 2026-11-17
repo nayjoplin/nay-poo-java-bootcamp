@@ -1,4 +1,15 @@
-# Desafio 01 – POO na Prática (DIO) • Java 11
+<div align="center">
+
+![POO em Java](assets/cover.svg)
+
+# POO em Java
+
+Exercícios de orientação a objetos realizados durante formação Java
+
+**Formação Java**
+
+</div>
+
 
 Modelagem completa do **domínio de um Bootcamp** usando os 4 pilares da POO:
 **Abstração, Encapsulamento, Herança e Polimorfismo**.  
